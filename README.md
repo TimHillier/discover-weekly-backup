@@ -17,4 +17,4 @@
     - Add both the playlist and backup playlist ids to the .env
 
 ## Run
-`python main.py`
+`python discover-weekly.py`

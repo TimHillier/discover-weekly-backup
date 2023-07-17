@@ -6,6 +6,7 @@
 
 ## Install: 
 - install requirements.txt
+- copy .envexample to .env
 - Go to your [Spotify Dashboard](https://developer.spotify.com/dashboard)
 - Create new app. set "Redirect URI" to "http://localhost:8000"
 - Save and go to App Settings. 
